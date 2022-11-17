@@ -13,7 +13,7 @@ Mochizuki.zip: Mochizuki et al. (2019) test case dataset
 
 Lim2021.zip: Lim et al. (2021) test case dataset
 
-Pennisi2019.zip: dPennisi et al. (2019) test case dataset
+Pennisi2019.zip: Pennisi et al. (2019) test case dataset
 
 spectra.zip: various light and plant response spectra (model input)
 
